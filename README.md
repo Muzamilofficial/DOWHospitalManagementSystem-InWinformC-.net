@@ -1,5 +1,5 @@
 # DOWHospitalManagementSystem-InWinformC-.net
-I built Modern GUI Based Hospital Management System in WINDOWS C# (.net) and connect it to SQL Server.
+I built Modern GUI Based Hospital Management System in WINDOWS C# (.net) and connect it to SQL Server in my 2nd semester
 
 ![1](https://user-images.githubusercontent.com/113015136/201026003-66f1efb3-7ad4-42ca-85c3-6f9cfefba533.PNG)
 ![2](https://user-images.githubusercontent.com/113015136/201026013-3b781dbe-d631-4e3a-b7e1-35043439fba7.PNG)
